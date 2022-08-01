@@ -24,7 +24,7 @@ int main(){
         for(int a = 0; a < storage[i][0]; a++){
         int tmp;
         in >> tmp;
-        friends[i].push_back(tmp);
+        friends[i].push_back(tmp);     //temporary variable
         }
     }
 
